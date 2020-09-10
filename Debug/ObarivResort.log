@@ -1,0 +1,8 @@
+﻿  ObarivResort.cpp
+F:\ITStep\2 курс\UML+Patterns\ObarivResort\ObarivResort.cpp(47,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+F:\ITStep\2 курс\UML+Patterns\ObarivResort\ObarivResort.cpp(49,18): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+F:\ITStep\2 курс\UML+Patterns\ObarivResort\ObarivResort.cpp(65,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+F:\ITStep\2 курс\UML+Patterns\ObarivResort\ObarivResort.cpp(67,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+F:\ITStep\2 курс\UML+Patterns\ObarivResort\ObarivResort.cpp(94,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+F:\ITStep\2 курс\UML+Patterns\ObarivResort\ObarivResort.cpp(101,17): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  ObarivResort.vcxproj -> F:\ITStep\2 курс\UML+Patterns\ObarivResort\Debug\ObarivResort.exe
